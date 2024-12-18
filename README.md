@@ -1,0 +1,3 @@
+# Unhandled JSON Decoding Exception in Dart `http` Package
+
+This repository demonstrates a common error encountered when using the `http` package in Dart: unhandled exceptions during JSON decoding. The application crashes without providing details on the specific decoding error, making debugging difficult.  The solution shows how to improve error handling and provide more informative error messages.
